@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+.container{
+    width: 500px;
+    height: 500px;
+   
+    position: relative;
+    margin-top: 50px;
+}
+.face{
+   
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
+.eyes{
+width: 15rem;
+position: absolute;
+top: 10rem;
+left: 8rem;
+}
+.ears{
+    position: absolute;
+    top: 4rem;
+    width: 28rem;
+    left: 1rem;
+}
+.hair{
+    position: absolute;
+    width: 25rem;
+    top: -5rem;
+    left: 3rem;
+}
+.nose{
+    position: absolute;
+    width: 7rem;
+    height: 10rem;
+    left: 12rem;
+    top: 12rem;
+}
+.mouth{
+    position: absolute;
+    width: 10rem;
+    left: 10.5rem;
+    top: 20.5rem;
+}
+.moustache{
+    position: absolute;
+    width: 17rem;
+    left: 6.5rem;
+    top: 15rem;
+}
